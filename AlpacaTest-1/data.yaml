@@ -1,0 +1,12 @@
+names:
+- Alpaca
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: alpacatest
+  url: https://universe.roboflow.com/alpaca-test-dataset/alpacatest/dataset/1
+  version: 1
+  workspace: alpaca-test-dataset
+test: test/images
+train: train/images
+val: valid/images
